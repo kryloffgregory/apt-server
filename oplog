@@ -1,1 +1,1 @@
-brew install cowsay
+apt -y install --no-upgrade kkk
